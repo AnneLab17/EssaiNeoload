@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=cours_Autom5
+project.version=8.1
+project.original.version=8.1
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.version=7.5.1
+product.original.version=7.5.1
+project.id=5b4f425b-72fa-44fc-87ce-90ded062892c
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
